@@ -1,4 +1,4 @@
-$VSN = "1.4.9"
+$VSN = "1.4.10"
 
 # build the filename for the Zip archive and exe file
 $FileName = "mmdbctl_$($VSN)_windows_amd64"

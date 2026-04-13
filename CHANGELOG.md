@@ -1,3 +1,7 @@
+# 1.4.10
+
+- [#49 read: fix IPv4 lookup on IPv6 databases](https://github.com/ipinfo/mmdbctl/pull/49)
+
 # 1.4.9
 
 - added tests for `import` and `export` commands
